@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captura Digital</string>
+    <string name="registrar_nuevo">REGISTRAR NUEVO PROSPECTO</string>
+    <string name="oferta_academica">Oferta Académica</string>
+    <string name="guardar_local">GUARDAR REGISTRO LOCAL</string>
+    <string name="confirmar_registro">CONFIRMAR REGISTRO</string>
+    <string name="nuevo_registro">NUEVO REGISTRO</string>
+    <string name="forzar_envio">FORZAR ENVÍO</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="verificar_api">VERIFICAR CONEXIÓN API</string>
+    <string name="registro_guardado">REGISTRO GUARDADO EN EL DISPOSITIVO</string>
+    <string name="pendiente_sincronizar">PENDIENTE DE SINCRONIZAR</string>
+    <string name="sincronizado">SINCRONIZADO</string>
+    <string name="error_formato_correo">Error: Formato de correo inválido</string>
+    <string name="excelente_senal">EXCELENTE SEÑAL</string>
+    <string name="error_envio">ERROR DE ENVÍO</string>
+    <string name="datos_validados">DATOS VALIDADOS</string>
+    <string name="modo_terreno">MODO TERRENO</string>
+    <string name="sin_conexion">SIN CONEXIÓN</string>
+    <string name="en_linea">EN LÍNEA</string>
+</resources>

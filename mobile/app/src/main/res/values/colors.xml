@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_oscuro">#1A237E</color>
+    <color name="azul_medio">#283593</color>
+    <color name="azul_claro">#3949AB</color>
+    <color name="naranja">#FF6F00</color>
+    <color name="verde_exito">#2E7D32</color>
+    <color name="rojo_error">#C62828</color>
+</resources>
