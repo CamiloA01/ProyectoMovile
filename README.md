@@ -99,49 +99,9 @@ Aplicación móvil Android (Kotlin + Jetpack Compose) que reemplaza el uso de fo
 | GET | `/api/prospectos/{id}` | Obtener prospecto por ID |
 | GET | `/api/catalogos` | Obtener catálogo académico |
 
-### API Externa (pendiente de integrar)
-Se recomienda: REST Countries API, Random User Generator, o API de geolocalización.
-
-## 🚀 Cómo ejecutar
-
-### Backend
-```bash
-cd backend
-./gradlew bootRun
-```
-El servidor arranca en `http://localhost:8080`
-
-### App Móvil
-```bash
-cd mobile
-./gradlew assembleDebug
-```
-O abrir en Android Studio y compilar. El APK se genera en `app/build/outputs/apk/debug/`.
-
-## 📦 APK Firmado
-
-```bash
-cd mobile
-./gradlew assembleRelease
-```
-
-El APK firmado se genera en `app/build/outputs/apk/release/`.  
-La keystore (.jks) debe configurarse en `app/build.gradle.kts`.
-
 ## 👥 Integrantes
 
-- [Nombre del estudiante 1]
-- [Nombre del estudiante 2]
-
-## 📊 Planificación (Trello)
-
-[Enlace al tablero Trello]
-
-## 🔗 Repositorio
-
-[URL del repositorio GitHub]
-
----
+- Camilo Ambrosetti
 
 **THERIONLABS SpA** — Captura Digital Móvil de Prospectos  
 DSY1105 · Desarrollo de Aplicaciones Móviles · Duoc UC
